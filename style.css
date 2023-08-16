@@ -1,0 +1,49 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dosis:wght@200&family=Pacifico&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200&family=Caveat&family=Cinzel:wght@400;600&family=Dosis:wght@200&family=Edu+SA+Beginner&family=Pacifico&family=Roboto:wght@100&family=Ysabeau+Infant:ital,wght@0,200;1,100;1,300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200&family=Caveat&family=Cinzel:wght@400;600&family=Dosis:wght@200&family=Pacifico&family=Roboto:wght@100&display=swap');
+body {background-color: rgb(219, 10, 10);}
+header{
+  display: flex;  
+  flex-direction: row;
+ justify-content: space-between;
+ background-color: rgba(32, 17, 4, 0.877); width: 100%;}
+
+header ul {
+list-style: none;
+display: flex;
+flex-direction: row;}
+header ul li { margin:10px;
+color: rgb(199, 221, 241);
+font-size: 35px;}
+
+p {font-family: "Edu SA Principiante", sans-serif;
+font-size: 25px;}
+h2{color: rgb(139, 52, 17);}
+
+h3 {font-family:"Caveat", sans-serif ;
+font-size: 25px;
+color: rgb(12, 12, 11);}
+
+h1 {font-family:"Cinzel", sans-serif;
+font-size: 60px;
+color: rgb(245, 248, 248);}
+
+
+footer {background-color: rgb(80, 62, 62);
+color: azure;}
+
+.caja{ display: flex;
+flex-direction: inherit;
+background-color: rgb(102, 115, 124);
+align-content: stretch;}
+.container{
+display: flex;
+flex-direction: column;
+background-color: black;
+}
+
+
+  
+
+
